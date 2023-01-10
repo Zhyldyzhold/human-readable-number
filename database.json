@@ -1,0 +1,18 @@
+{
+  "courses": [
+    {
+      "name": "British Study Centres",
+      "description": "курсы англ языка",
+      "photo": "https://british-study.kg/#programmi",
+      "address": "https://2gis.kg/bishkek/firm/70000001020454803?m=74.585665%2C42.867966%2F16",
+      "id": 2
+    },
+    {
+      "name": "english.on.kg",
+      "description": "изучение иностранных языков",
+      "photo": "http://english.on.kg/",
+      "address": "http://english.on.kg/contact#:~:text=%D0%A1%D1%83%D1%8E%D0%BC%D0%B1%D0%B0%D0%B5%D0%B2%D0%B0%2049%20%D0%90%0A/%20%D0%A2%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D0%B0",
+      "id": 3
+    }
+  ]
+}
